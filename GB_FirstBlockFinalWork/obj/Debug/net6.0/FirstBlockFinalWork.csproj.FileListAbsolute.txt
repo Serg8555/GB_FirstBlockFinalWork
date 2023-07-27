@@ -1,0 +1,15 @@
+C:\Users\serg8\OneDrive\Desktop\actual_Home_Work_for_GitHub\FirstBlockFinalWork\bin\Debug\net6.0\FirstBlockFinalWork.exe
+C:\Users\serg8\OneDrive\Desktop\actual_Home_Work_for_GitHub\FirstBlockFinalWork\bin\Debug\net6.0\FirstBlockFinalWork.deps.json
+C:\Users\serg8\OneDrive\Desktop\actual_Home_Work_for_GitHub\FirstBlockFinalWork\bin\Debug\net6.0\FirstBlockFinalWork.runtimeconfig.json
+C:\Users\serg8\OneDrive\Desktop\actual_Home_Work_for_GitHub\FirstBlockFinalWork\bin\Debug\net6.0\FirstBlockFinalWork.dll
+C:\Users\serg8\OneDrive\Desktop\actual_Home_Work_for_GitHub\FirstBlockFinalWork\bin\Debug\net6.0\FirstBlockFinalWork.pdb
+C:\Users\serg8\OneDrive\Desktop\actual_Home_Work_for_GitHub\FirstBlockFinalWork\obj\Debug\net6.0\FirstBlockFinalWork.csproj.AssemblyReference.cache
+C:\Users\serg8\OneDrive\Desktop\actual_Home_Work_for_GitHub\FirstBlockFinalWork\obj\Debug\net6.0\FirstBlockFinalWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serg8\OneDrive\Desktop\actual_Home_Work_for_GitHub\FirstBlockFinalWork\obj\Debug\net6.0\FirstBlockFinalWork.AssemblyInfoInputs.cache
+C:\Users\serg8\OneDrive\Desktop\actual_Home_Work_for_GitHub\FirstBlockFinalWork\obj\Debug\net6.0\FirstBlockFinalWork.AssemblyInfo.cs
+C:\Users\serg8\OneDrive\Desktop\actual_Home_Work_for_GitHub\FirstBlockFinalWork\obj\Debug\net6.0\FirstBlockFinalWork.csproj.CoreCompileInputs.cache
+C:\Users\serg8\OneDrive\Desktop\actual_Home_Work_for_GitHub\FirstBlockFinalWork\obj\Debug\net6.0\FirstBlockFinalWork.dll
+C:\Users\serg8\OneDrive\Desktop\actual_Home_Work_for_GitHub\FirstBlockFinalWork\obj\Debug\net6.0\refint\FirstBlockFinalWork.dll
+C:\Users\serg8\OneDrive\Desktop\actual_Home_Work_for_GitHub\FirstBlockFinalWork\obj\Debug\net6.0\FirstBlockFinalWork.pdb
+C:\Users\serg8\OneDrive\Desktop\actual_Home_Work_for_GitHub\FirstBlockFinalWork\obj\Debug\net6.0\FirstBlockFinalWork.genruntimeconfig.cache
+C:\Users\serg8\OneDrive\Desktop\actual_Home_Work_for_GitHub\FirstBlockFinalWork\obj\Debug\net6.0\ref\FirstBlockFinalWork.dll
